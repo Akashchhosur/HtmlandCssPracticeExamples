@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:white;
+}
+
+.div{
+    width: 300px;
+    height: 500px;
+    border: 1px solid rgba(0, 0, 0, 0.034);
+    /* background-color: aliceblue; */
+    display: inline-block;
+    margin: 20px 20px;
+    margin-bottom: 10px;
+    transition : transform;
+    transition-duration: 0.5s;
+
+}
+.div:hover
+{
+    box-shadow: 0px 0px 5px 1px rgba(102, 76, 76, 0.253);
+
+    /* border: 1px solid rgba(15, 1, 1, 0.233); */
+    /* transform: rotate(180deg); */
+    background-color: white;
+    transform: translate(0px,-10px);
+    border-radius: 6px;
+}
+.divp1{
+    height: 300px;
+    /* border: 2px solid red; */
+    /* margin-top: 5px; */
+    /* text-align: center; */
+    background-color: rgba(0, 255, 255, 0.144);
+    /* margin-bottom: 15px; */
+    overflow: hidden;
+    
+    
+}
+.div:hover img
+{
+    /* transform: scale(1.1); */
+    background-color: rgba(245, 245, 245, 0.644);
+}
+.divp2{
+    height: 175px;
+    /* border: 2px solid red;  */
+    width: 295px;
+    /* margin: px; */
+    /* padding: 2px; */
+    background-color: azure;
+
+}
+.img
+{
+    width: 300px;
+    height: 320px;
+    
+}
+.hh1{
+    
+    font-size: 18px;
+    margin-top: 18px;
+    margin-bottom: 10px;
+    
+    margin-left: 20px;
+    font-weight: lighter;
+    color: rgba(0, 0, 0, 0.719);
+    
+}
+.hhp1{
+    font-size: 20px;
+    width: 50px;
+    /* border: 2px solid red; */
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 20px;
+   
+    
+}
+.hhp2{
+    font-size: 14px;
+    width: 100px;
+    /* border: 2px solid red;  */
+    display: inline-block;
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.397);
+   margin-top: 20px;
+}
+.star{
+    font-size: medium;
+    word-spacing: 6px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.btn{
+    text-align: center;
+}
+.btn1{
+    
+    width: 270px;
+    height: 40px;
+    color:white;
+    background-color: rgba(137, 43, 226, 0.938);
+    margin-left: 5px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.sec1{
+    
+    margin: 2px;
+    width: 900px;
+    border: 2px solid red;
+}
+.divp1 h1{
+    width: 40px;
+     background-color: rgba(0, 255, 255, 0.144);
+     border: 2px solid red;
+     font-size: small;
+     
+}
+
+
+
+
+
+
+
+
+
+
+

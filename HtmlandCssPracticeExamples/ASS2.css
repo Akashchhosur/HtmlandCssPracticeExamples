@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.maindiv{
+    background-color: blue;
+    width: 350px;
+    height: 480px;
+    margin: 20px auto;
+    color: white;
+    line-height: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.maindiv:hover{
+    box-shadow: 0px 0px 8px 5px rgba(102, 76, 76, 0.253);
+
+    /* border: 1px solid rgba(15, 1, 1, 0.233); */
+    /* transform: rotate(180deg); */
+    transform: translate(0px,-10px);
+    border-radius: 10px;
+}
+.btn{
+    
+    text-align: center;
+}
+.butn{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: blueviolet;
+}
+.list{
+    padding:  0px 20px;
+}
+.price{
+    font-size: 40px;
+    
+}
+.head2{
+    font-size: larger;
+    font-weight: bolder;
+    
+}

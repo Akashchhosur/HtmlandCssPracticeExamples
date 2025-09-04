@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    color: blue;
+    background-image: linear-gradient(rgba(125, 79, 163,0.1),rgb(155, 115, 64,0.5));
+    background-size: 10% 100%;
+    background-position: center center;
+}
+body
+{
+
+    background-color: rgba(12, 147, 236, 0.336);
+    background-position: center center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    background-image:  linear-gradient(rgba(73, 39, 105, 0.281),rgba(116, 158, 68,0.8)),url(./IMG_5666.JPG);
+    
+    background-position: center center;
+}
+

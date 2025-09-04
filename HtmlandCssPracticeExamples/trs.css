@@ -1,0 +1,31 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.div1{
+    width: 400px;
+    height: 600px;
+    background-color: aliceblue;
+    margin: 20px auto;
+    text-align: center;
+    
+    
+}
+.div2{
+    width: 500px;
+    height: 350px;
+   
+    background-color: red;
+
+}
+.img{
+     height: 250px;
+     padding: 20px;
+     margin: 20px;
+
+
+
+}

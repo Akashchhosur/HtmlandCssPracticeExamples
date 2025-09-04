@@ -1,0 +1,33 @@
+h1{
+    background-color: red;
+    /* border-right-style: dotted;
+    border-right-width: 100px;
+    border-right-color: rgb(37, 34, 34);
+    border-left-width: 200px;
+     */
+    width: 130px;
+    border: 3px dotted yellowgreen;
+    margin: 50px auto;
+    padding: 100px 200px;
+    /* box-sizing: border-box; */
+
+}
+img
+{
+    border: 5px dashed blueviolet;
+    border-radius: 100%;
+}
+p.demo{
+    
+   background-color: cadetblue;
+   width: 130px;
+   border: 3px dashed chocolate;
+   margin: 80px auto;
+   box-sizing: border-box;
+   padding: 20px;
+   text-align: center;
+    
+    
+}
+    
+    
